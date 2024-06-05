@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(44, 0, 35, 0.148);
+   
+ }
+
+
+ .num {
+     width: 100px;
+color: #7b0d0d;
+border-color: #cf3b3b;
+border-radius: 5px;
+margin-top: 10px;
+text-align: center;
+font-weight: bold;
+height: 40px;
+font-size: 20px;
+ }
+ #start{
+ margin-top: 20px;
+width: 100px;
+height: 80px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color:#cf3b3b;
+border-color:  black;
+color: black;
+font-weight: bold;
+border-radius: 15px;
+ }
+ 
+ .tic {
+     margin-top: 100px;
+ }
+ h2{
+     color: rgb(210, 189, 189);
+ }
+ h4{
+     color: #1d0202;
+ }
